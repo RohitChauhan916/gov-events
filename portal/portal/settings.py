@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'portal',
     'home',
     'user',
+    'country',
 ]
 
 MIDDLEWARE = [
